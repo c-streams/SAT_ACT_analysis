@@ -4,9 +4,7 @@
 
 SAT and ACT exams remain the standard for college applications, however, most colleges don't require one over the other.  Both exams have similar registration costs and seek to test student aptitude. The ACT is composed of four subjects: math, science, english, and reading, while the SAT is composed of two: math and evidence-based reading and writing [1, 2]. The two tests have different scoring scales, which are summarized below (Figure 1).
 
-
-
-Figure 1: Comparison of SAT and ACT scoring and cost
+<img src="
 
 It is also important to note that the SAT test format was changed in March, 2016, making it more similar to the ACT [3].
 
